@@ -1,0 +1,14 @@
+# PDF build workspace
+/.pdf_build/
+
+# Local lecture transcript downloads
+/captions.txt
+/transcript_ldgl.txt
+
+# Dependency and cache directories
+node_modules/
+__pycache__/
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
